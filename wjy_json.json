@@ -1,0 +1,17 @@
+{
+    "wjy_json": {
+        "student": {
+            "age": {
+                "*Size*": "4",
+                "*Type*": "smallint",
+                "DATA": ""
+            },
+            "son": {
+                "*KEY*": "Yes",
+                "*Size*": "10",
+                "*Type*": "int",
+                "DATA": ""
+            }
+        }
+    }
+}
